@@ -23,6 +23,18 @@ frp also has a P2P connect mode.
 
 <!--platinum sponsors end-->
 
+<h3 align="center">Gold Sponsors</h3>
+<!--gold sponsors start-->
+
+<p align="center">
+  <a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=frp&utm_source=github" target="_blank">
+    <img width="300px" src="https://raw.githubusercontent.com/fatedier/frp/sponsor/doc/pic/sponsor_workos.png">
+  </a>
+</p>
+
+<!--gold sponsors end-->
+
+
 <h3 align="center">Silver Sponsors</h3>
 
 * Sakura Frp - 欢迎点击 "加入我们"
